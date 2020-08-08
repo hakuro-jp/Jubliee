@@ -1,0 +1,2 @@
+G90            ; ABSOLUTE 
+G1 V0 F600    ; RETRACT ARM 
